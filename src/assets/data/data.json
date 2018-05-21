@@ -1,0 +1,36 @@
+[
+    {
+        "storeName": "JD京东自营",
+        "storeFlag": false,
+        "product": [
+            {
+                "name": "相思鸟(LOVEBIRD)",
+                "msg": "重量:0.3Kg 颜色:12孔",
+                "price": 89,
+                "count": 1,
+                "pitch": false,
+                "img": "../src/assets/images/1.jpg"
+            }, {
+                "name": "海飞丝 H&S 洗护套装",
+                "msg": "重量:1.98Kg 产品:丝质顺滑700ml*2",
+                "price": 99,
+                "count": 1,
+                "pitch": false,
+                "img": "../src/assets/images/2.jpg"
+            }
+        ]
+    }, {
+        "storeName": "百货大楼",
+        "storeFlag": false,
+        "product": [
+            {
+                "name": "优越者(UNITEK)",
+                "msg": "重量:0.3Kg 颜色:切换二进一出",
+                "price": 49,
+                "count": 1,
+                "pitch": false,
+                "img": "../src/assets/images/3.jpg"
+            }
+        ]
+    }
+]
